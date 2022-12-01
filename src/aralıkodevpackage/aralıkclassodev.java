@@ -5,6 +5,7 @@ public class aralıkclassodev
     public static void main(String[] args) {
         int mat, fizik,kimya,turkce,tarih,muzik;
 
+
         Scanner inp = new Scanner(System.in);
         System.out.print("Matematik Notunuz : ");
         mat = inp.nextInt();
